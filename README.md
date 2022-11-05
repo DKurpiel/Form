@@ -2,4 +2,4 @@
 
 Front-end and mechanic of completing the form.
 
-<img src="./img.png">
+<a href="https://dkurpiel.github.io/Form/"> <img src="./img.png"> </a>
